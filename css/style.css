@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header { justify-content: center;
+color: aquamarine;
+margin: 10px;
+}
+header h1 { align-content: center;}
